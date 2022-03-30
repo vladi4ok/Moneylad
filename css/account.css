@@ -317,7 +317,13 @@ body {
 }
 @media (max-width: 442px) {
   .background img {
-    top: 10%;
+    top: -15%;
+    left: -140%;
+  }
+}
+@media (max-width: 380px) {
+  .background img {
+    top: 0%;
     left: -140%;
   }
 }
